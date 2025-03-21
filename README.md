@@ -6,7 +6,6 @@ The Railway Reservation System provides a platform where passengers can search f
 
 ⚙️ Features
 ✅ User Roles:
-
 Admin:
 Add, update, and remove train details.
 View passenger bookings and manage train schedules.
@@ -14,22 +13,21 @@ Passenger:
 Search for available trains.
 Book tickets and make payments.
 View reservation details and booking history.
-✅ Booking System:
 
+✅ Booking System:
 Real-time train search with filters for date, class, and availability.
 Dynamic seat allocation.
 ✅ Payment Integration:
 
 Secure payment options integrated for hassle-free ticket purchases.
-✅ Responsive Design:
 
+✅ Responsive Design:
 Clean and intuitive user interface optimized for various devices.
 ✅ Data Management:
-
 Passenger, train, and booking details stored securely in MongoDB.
 Admin access control for data management.
-✅ Error Handling and Notifications:
 
+✅ Error Handling and Notifications:
 Error prompts for invalid actions.
 Confirmation messages for booking status.
 🏗️ Tech Stack
