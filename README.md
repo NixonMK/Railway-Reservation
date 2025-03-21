@@ -41,7 +41,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/railway-reservation-system.git
+git clone https://github.com/NixonMK/Railway-Reservation.git
 cd railway-reservation-system
 Set Up MongoDB:
 
